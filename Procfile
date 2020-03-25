@@ -1,0 +1,1 @@
+web: gunicorn dash_simple_nba/main:server
