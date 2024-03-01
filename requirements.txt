@@ -1,5 +1,5 @@
 plotly==4.5.4
-dash_core_components==1.8.1
+dash_core_components==2.0.0
 pandas==1.0.3
 dash==1.9.1
 numpy==1.18.2
